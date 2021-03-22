@@ -25,6 +25,9 @@
 		width: 100%;
 		background-size: cover;
 	}
+	#movie1{
+		text-alighn:center;
+	}
 
 /* ワイドスクリーン用のCSS */
 	@media only screen and (min-width: 1500px) {
